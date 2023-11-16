@@ -1,7 +1,7 @@
 <div id="SealedSaucer" align="center">
   <h3>I'm omar</a></h3>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/613727227384823829)](https://discord.com/users/613727227384823829)
+![https://discord.com/users/613727227384823829](https://discord.c99.nl/widget/theme-1/613727227384823829.png)
 
 ---
 
