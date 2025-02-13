@@ -1,8 +1,7 @@
 <div id="SealedSaucer" align="center">
-  <h3>I'm omar</a></h3>
+  <h3>My Name Omar (Catrine)</a></h3>
 
-![https://discord.com/users/613727227384823829](https://discord.c99.nl/widget/theme-1/613727227384823829.png)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1182845301225173005?showDisplayName=true&theme=dark)](https://discord.com/users/1182845301225173005)
 ---
 
 <h3>Socials</h3>
@@ -26,5 +25,8 @@
   <a href="https://javascript.com"><img src="https://skillicons.dev/icons?i=javascript" height="26" width="26"></a>
   &nbsp;
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="26" width="26"></a>
+  &nbsp;
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" height="26" width="26"></a>
 </div>
+
 </div>
