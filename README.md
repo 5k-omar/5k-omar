@@ -8,9 +8,6 @@
 <h3>Socials</h3>
 
 <div>
-    <a href="https://www.tiktok.com/@official.moonswapper"><img src="https://freelogopng.com/images/all_img/1655891201logo-tiktok-png.png" height="31" width="31"></a>
-    &nbsp;
-    <a href="https://www.instagram.com/omar_moohamed__"><img src="https://skillicons.dev/icons?i=instagram" height="29" width="29"></a>
     &nbsp;
     <a href="https://discord.gg/zbKbEqbz6Q"><img src="https://skillicons.dev/icons?i=discord" height="29" width="29"></a>
 </div>
